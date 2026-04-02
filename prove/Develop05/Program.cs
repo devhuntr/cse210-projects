@@ -15,7 +15,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-// ─PROGRAM Entry Point
+// PROGRAM Entry Point
 // Main driver class. Handles the menu loop, score, and file I/O.
 class Program
 {

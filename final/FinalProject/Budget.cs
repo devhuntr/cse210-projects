@@ -33,7 +33,7 @@ namespace CloudSimulator
             else if (percent >= 80)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine($"  WARNING: Approaching limit — only ${remaining:F2} remaining.");
+                Console.WriteLine($"  WARNING: Approaching limit - only ${remaining:F2} remaining.");
             }
             else
             {

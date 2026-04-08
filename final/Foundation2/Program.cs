@@ -1,5 +1,5 @@
 using System;
-
+//This is the class that is going to be running the whole project.
 namespace CloudSimulator
 {
     class Program
